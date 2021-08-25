@@ -37,7 +37,6 @@ Sizlere blog yazımda siber güvenlik gelişmelerini takip edebileceğiniz kayna
 
   <hr>
 
-Blog yazımı okuduğunuz için teşekkür ederim.
 
 Öneri ve görüşlerinizi beklerim.
 
