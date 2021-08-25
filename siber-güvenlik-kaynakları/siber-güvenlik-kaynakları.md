@@ -35,7 +35,7 @@ Sizlere blog yazımda siber güvenlik gelişmelerini takip edebileceğiniz kayna
 - https://portswigger.net/daily-swig/data-breach
 - https://cybersafe.news/data-breaches/
 
-<hr>
+  <hr>
 
 Blog yazımı okuduğunuz için teşekkür ederim.
 
