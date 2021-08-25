@@ -1,6 +1,6 @@
 **Herkese Merhabalar,**
 
-Sizlere blog yazımda siber güvenlik gelişmelerini takip edebileceğiniz kaynakları aktarmaya çalışacağım. Faydalı olması dileğiyle.
+Sizlere siber güvenlik gelişmelerini takip edebileceğiniz kaynakları aktarmaya çalışacağım. Faydalı olması dileğiyle.
 
    <hr>
 
