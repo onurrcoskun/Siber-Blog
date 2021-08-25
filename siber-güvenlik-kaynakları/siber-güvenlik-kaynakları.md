@@ -4,7 +4,7 @@ Sizlere blog yazımda siber güvenlik gelişmelerini takip edebileceğiniz kayna
 
 <hr>
 
-**Siber Güvenlik Güncel Kaynaklar**
+**Siber Güvenlik Kaynakları**
 
 - https://threatpost.com
 - www.darkreading.com
