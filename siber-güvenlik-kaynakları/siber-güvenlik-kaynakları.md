@@ -2,7 +2,7 @@
 
 Sizlere blog yazımda siber güvenlik gelişmelerini takip edebileceğiniz kaynakları aktarmaya çalışacağım. Faydalı olması dileğiyle.
 
-<hr>
+  <hr>
 
 **Siber Güvenlik Kaynakları**
 
