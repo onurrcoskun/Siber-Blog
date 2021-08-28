@@ -126,7 +126,7 @@ Not: Bazı Linux dağıtımlarında  komut değişiklikleri olmaktadır.
 
 Özetle,
 
-Blog yazımda herhangi bir servisi nasıl kapatabiliriz, neden kapatmamız gerekiyor, servislerin yönetiminde hangi temel komutlar kullanılır gibi konuları sizlere açıklamaya çalıştım. Kapalı kalması öngörülen bazı servislerin listesine https://blog.cliaweb.com/linux-gereksiz-servislerin-kapatilmasi.html 'den ulaşabilirsiniz.
+Blog yazımda herhangi bir servisi nasıl kapatabiliriz, neden kapatmamız gerekiyor, servislerin yönetiminde hangi temel komutlar kullanılır gibi konuları sizlere açıklamaya çalıştım. Kapalı olması öngörülen bazı servislerin listesine https://blog.cliaweb.com/linux-gereksiz-servislerin-kapatilmasi.html 'den ulaşabilirsiniz.
 
 <hr>
 
