@@ -176,7 +176,7 @@ Bilgi güvenliği politikalarından bazılarını listelemek gerekirse;
 
   **Bilgi Güvenliği Tehditleri**
 
-- ​	**Virüsler:**Bilgisayar virüsleri temelde sistemdeki dosyalar ile kendilerini değiştirirler ve değiştirdikleri sistem dosyasının kimliğine gizlenerek çeşitli bilgisayar işlem yapılmasına olanak sağlar.
+- ​ **Virüsler:** Bilgisayar virüsleri temelde sistemdeki dosyalar ile kendilerini değiştirirler ve değiştirdikleri sistem dosyasının kimliğine gizlenerek çeşitli bilgisayar işlem yapılmasına olanak sağlar.
 - ​	**Solucanlar:** Virüslerin benzeri bir yazılım mimarisine sahiptirler. Bir bilgisayardan başka bir bilgisayara kopyalanmak için tasarlanan tehdittir.
 - ​	**Truva Atı:** Genellikle bilgisayar kullanıcıların içeriği hakkında derinlemesine bilgisi olmayan programlara yerleştirilir. Adından da anlaşıldığı gibi Truva atları(trojan) sisteme kendini gizleyerek yerleşir.
 - ​	**RootKit:** Bilgisayarda çalışan sistemler arasında kendini gizleyen, oldukça kötü niyetli bir yazılım türüdür. Çalışma mantığı virüsler gibidir ancak virüsler gibi yayılmak ve sisteminizi aksatmaktan çok, bilgisayarınızı uzaktan kontrol etmeye odaklıdır.
