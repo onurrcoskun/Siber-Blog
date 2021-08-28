@@ -29,7 +29,7 @@ Broken Authentication için alınabilecek bazı önlemler;
 
 - Güçlü parolaların oluşturulması
 
-- Çok faktörlü kimlik doğrulamanın yapılmasıdır.
+- Çok faktörlü kimlik doğrulamanın yapılması
 
   
 
