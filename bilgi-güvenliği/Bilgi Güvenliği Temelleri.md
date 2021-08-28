@@ -212,7 +212,7 @@ Kurumsal önlem olarak ise ilgili olmayan kişilere kurum içi bilgilerini teyit
 
 ​ Bilgisayar sistemlerine kötü amaçlar için bulaşan (istem dışı kopyalanan) yazılımlardır. Virüs, truva atı, trojan, casus yazılım, botnet, solucan gibi amacına yönelik olarak isimlendirilirler. Bu yazılımlarla sisteme zarar vermek, bilgileri silmek veya çalmak, başka sistemlere saldırıda aracı olarak kullanmak ve bilgileri şifrelemek gibi kötü amaçlar söz konusudur.
 
-Zararlı yazılımlardan korunmak için güncel bir antivirüs kurulmalı veya varsa işletim sisteminde bulunan güvenlik yazılımları aktif edilmelidir. E-postalarınıza dikkat etmelisiniz kim tarafından gönderildiğine bakıp ona göre açıp işlem yapmalısınız. Telefonda ise bilmediğiniz kaynağı belli olmayan uygulamalı yüklememelisiniz. 
+Zararlı yazılımlardan korunmak için güncel bir antivirüs kurulmalı veya varsa işletim sisteminde bulunan güvenlik yazılımları aktif edilmelidir. E-postalarınıza dikkat etmelisiniz kim tarafından gönderildiğine bakıp ona göre açıp işlem yapmalısınız. Telefonda ise güvenilirliği olmayan uygulamaları yüklememelisiniz. 
 
 En temel kişisel ve kurumsal bilgi güvenliğine yönelik önlemler yukarıda belirtilmiştir.
 
