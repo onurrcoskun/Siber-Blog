@@ -26,7 +26,7 @@ Sizlere siber güvenlik mülakatlarında çıkabilecek soruları aktarmaya çal�
 - Cyber Kill Chain nedir?
 - Bildiğiniz temel linux komutlarını açıklayınız?
 - Log nedir?
-- Sıem ve Soar nedir?
+- Siem ve Soar nedir?
 - Simertik ve Asimetrik şifreleme nedir?
 - Honeypot nedir?
 
