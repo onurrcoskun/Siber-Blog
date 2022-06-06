@@ -46,7 +46,7 @@ Arama motorlarında doğru teknikler sayesinde hızlı ve etkili birçok veriye 
 
 ### Dark ve Deep Web ile Veri Toplama
 
-Dark ve Deep Web sıradan arama motorları dışındaki verileri barından alanlardır. Ancak Dark Web diğerlerine göre daha az alana ve farklı amaçlara hitap etmektedir. Yani yasal olmayan birçok faaliyetler yapılmaktadır. Bu yüzünde dikkatli olmak gerekir. Dark Web ve  Deep Web’e farklı araçlarla ulaşılmaktadır. Dark ve Deep Web arama motorları sayesinde diğer arama motorlarına göre daha fazla  veriye ulaşılmaktadır.
+Dark ve Deep Web sıradan arama motorları dışındaki verileri barından alanlardır. Ancak Dark Web diğerlerine göre daha az alana ve farklı amaçlara hitap etmektedir. Yani yasal olmayan birçok faaliyetler yapılmaktadır. Bu yüzünde dikkatli olmak gerekir. Dark Web ve  Deep Web’e farklı araçlarla ulaşılmaktadır.
 
 ### İş Siteleri Üzerinden Veri Toplama
 
