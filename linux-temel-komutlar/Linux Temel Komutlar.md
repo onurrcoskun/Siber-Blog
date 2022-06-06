@@ -147,7 +147,7 @@ komutu ile test.txt dosya ismini newtest.txt  olarak değiştirme imkanı sağla
 **Less**
 
 
-Dosya içeriğini ileri geri okumak  için kullanılan komuttur. İçeriği uzun olan dosyalar için zaman kazandırabilecek bir komuttur.
+Dosya içeriğini okumak  için kullanılan komuttur. İçeriği uzun olan dosyalar için zaman kazandırabilecek bir komuttur.
 
 <hr>
 
